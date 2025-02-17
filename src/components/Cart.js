@@ -14,4 +14,4 @@ function Cart() {
     </div>
   );
 }
-export default Cart;
+export default Cart; // Export the Cart component

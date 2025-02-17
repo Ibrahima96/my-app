@@ -1,5 +1,5 @@
-import Banner from './Banner'
-import Cart from './Cart'
+import Banner from './Banner'// Import the Banner component
+import Cart from './Cart' // Import the Cart component
 
 function App() {
     return (
@@ -10,4 +10,4 @@ function App() {
     )
 }
 
-export default App
+export default App // Export the App component
